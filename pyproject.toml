@@ -1,12 +1,14 @@
 [tool.poetry]
 name = "userbutt"
 version = "0.1.0"
-description = ""
-authors = ["repl.it user <replituser@example.com>"]
+description = "Script for generating Telegram Session in telethon or pyrogram"
+authors = ["Mr.Miss <keselekpermen69@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
 Telethon = "^1.14.0"
+TgCrypto = "^1.2.1"
+Pyrogram = "^0.17.1"
 
 [tool.poetry.dev-dependencies]
 
