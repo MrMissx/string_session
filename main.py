@@ -30,7 +30,7 @@ UserBot support: @userbotindo
 print(docs)
 
 while select != ("p", "t"):
-    select = input("Enter your required client < p / t > : ")
+    select = input("Enter your required client < p / t > : ").lower()
     if select == "t":
         print("""\nTelethon selected\nRunning script...""")
         time.sleep(1)
