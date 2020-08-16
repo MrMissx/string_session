@@ -20,7 +20,7 @@ tutor = """
 """
 
 template = """
-UserBot support: @userbotindo
+UserBot support: @The_Anonymous_Legend
             
 <code>STRING_SESSION</code>: <code>{}</code>
 
