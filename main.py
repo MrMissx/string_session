@@ -1,3 +1,9 @@
+# Copyleft (c) 2020 Mr.Miss, All wrongs reserved.
+#
+# Redistribution and use in source with or
+# without modufication, are permitted.
+
+
 import time
 from telethon.sync import TelegramClient
 from telethon.sessions import StringSession
